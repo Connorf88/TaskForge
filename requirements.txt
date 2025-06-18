@@ -1,0 +1,4 @@
+flask
+flask-dynamo
+flask-restful
+boto3
